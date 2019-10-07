@@ -1,1 +1,4 @@
-# job_interview_prac
+Web
+------------
+### URL, URI
+* URL은 자원(파일)의 위치를 의미하고 URI는 인터넷 상의 자원의 식별자입니다. URI가 URL보다 상위 개념 입니다.
